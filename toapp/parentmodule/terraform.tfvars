@@ -5,8 +5,13 @@ rg = {
   }
    rg2 = {
     name     = "rg-dev-002"
-    location = "west us"
-  }
+    location = "west us" 
+  } 
+   rg3 = {
+    name     = "rg-dev-003"
+    location = "west us" 
+  } 
+
 
 }
 
