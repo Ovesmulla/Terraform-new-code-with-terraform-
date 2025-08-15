@@ -5,7 +5,7 @@ rg = {
   }
    rg2 = {
     name     = "rg-dev-002"
-    location = "west us"
+    location = "west us" 
   }
 
 }
